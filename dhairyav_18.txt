@@ -6,3 +6,12 @@ Test : 29
 T20  : 1
 
 -->Total 100's : 80
+
+
+
+-->INTL 50
+ODI  : 72
+Test : 30
+T20  : 38
+
+-->Total 50's : 180
