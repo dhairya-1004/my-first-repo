@@ -1,0 +1,8 @@
+Virat Kohli
+
+-->INTL 100
+ODI  : 50
+Test : 29
+T20  : 1
+
+-->Total 100's : 80
